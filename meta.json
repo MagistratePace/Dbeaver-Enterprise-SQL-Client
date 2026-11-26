@@ -1,0 +1,26 @@
+{
+  "repo": "dbeaver-enterprise-sql-client",
+  "product": "Dbeaver Enterprise SQL Client",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "dbeaver-enterprise-sql-client",
+    "dbeaver-sql",
+    "dbeaver-sql-client",
+    "sql-client",
+    "database-admin",
+    "sql-editor",
+    "postgresql-tools",
+    "how-to-install-dbeaver-sql",
+    "how-to-setup-dbeaver-sql",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Dbeaver Enterprise SQL Client"
+}
